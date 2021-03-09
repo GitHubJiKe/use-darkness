@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Redressed";
+  src: url(./Redressed-Regular.ttf);
+}
+body {
+  margin: 0;
+  font-family: "Redressed";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  button {
+    font-family: "Redressed";
+  }
+}
+
+code {
+  text-align: left;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
